@@ -1,0 +1,5 @@
+[user]
+	name = Abdurrahman Hafez
+	email = abdurrahman.hafez@gmail.com
+[core]
+	editor = code --wait

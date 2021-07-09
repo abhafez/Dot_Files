@@ -1,0 +1,55 @@
+{
+  "404D:42F31E83": {
+    "_modelId": "404D00000000",
+    "_name": "Wireless Touch Keyboard K400 Plus",
+    "_serial": "42F31E83",
+    "_unitId": "C1363BB9",
+    "disable-keyboard-keys": {
+      "1": false,
+      "16": false,
+      "4": false,
+      "8": false
+    },
+    "divert-keys": {
+      "1": 0,
+      "110": 0,
+      "145": 0,
+      "149": 0,
+      "183": 0,
+      "184": 0,
+      "2": 0,
+      "3": 0,
+      "34": 0,
+      "4": 0,
+      "40": 0,
+      "5": 0,
+      "6": 0,
+      "62": 0,
+      "64": 0,
+      "79": 0,
+      "8": 0,
+      "84": 0
+    },
+    "fn-swap": false,
+    "gesture2-gestures": {
+      "1": true,
+      "10": true,
+      "2": true,
+      "30": true,
+      "34": true,
+      "42": true,
+      "43": true,
+      "45": false,
+      "64": false,
+      "65": false,
+      "67": false,
+      "84": true
+    },
+    "gesture2-params": {
+      "4": {
+        "scale": 256
+      }
+    }
+  },
+  "_version": "1.0.6"
+}
